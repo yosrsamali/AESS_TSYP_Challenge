@@ -1,1 +1,0 @@
-# AESS_TSYP_Challenge
