@@ -66,3 +66,6 @@ backend/
 # How It Works
 The Frontend (Flutter) communicates with the Backend API (Node.js/Express) to fetch model data and display it on the mobile application.
 The Backend handles requests, processes them, and returns the necessary data to the frontend. It also uses an .env file to securely store sensitive data like API keys.
+
+
+-- **Satelite Server** : you can download the server from this link : https://drive.google.com/drive/folders/1tb8CuQRKtsz2tDe3RHKZTSz6qNed0MaI?usp=sharing

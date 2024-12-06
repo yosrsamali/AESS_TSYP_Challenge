@@ -39,6 +39,9 @@ monitoring system, detailing the flow of data from **NPK Sensors** to
 the **Mobile App**. The system leverages multiple protocols to ensure
 efficient communication across the entire system:
 
+
+-- **Server** : you can download the server from this link : https://drive.google.com/drive/folders/1tb8CuQRKtsz2tDe3RHKZTSz6qNed0MaI?usp=sharing
+
 - **NPK Sensors** send data to the **Server** via **MQTT**.
 
 - The **Server** communicates with the **Satellite** using **CCSDS** to
