@@ -270,7 +270,7 @@ By integrating sensors, AI, and satellite technology, this system offers:
 
 ---
 
-## *11. Conclusion*  
+## *12. Conclusion*  
 This project combines cutting-edge technologies to transform agriculture into a more sustainable and efficient industry. By integrating real-time soil monitoring, satellite imagery analysis, and advanced AI predictions, our solution empowers farmers to tackle critical challenges, ensuring food security and environmental preservation.
 
 ---
